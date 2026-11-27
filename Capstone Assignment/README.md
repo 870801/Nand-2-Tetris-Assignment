@@ -1,6 +1,6 @@
-# Nand2Tetris-I Capstone — Roll No. 2501730015
+# Nand2Tetris-I Capstone — Roll No. 2501730286
 
-Personal number: K = 15
+Personal number: K = 86
 - K mod 3 = 0: assembler exports labels and variables to `symbols.txt`.
 - K mod 4 = 3: box width = 16 × 4 = 64 pixels.
 - Box starts at screen row 15 and is 20 rows tall.

@@ -3,8 +3,8 @@
 """
 Two-pass assembler for the Nand2Tetris Hack computer.
 
-Student Roll Number: 2501730339
-K = 39
+Student Roll Number: 2501730286
+K = 86
 
 Extra Feature (K mod 3 = 0):
 Save all labels and variables with their addresses
